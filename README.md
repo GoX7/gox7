@@ -6,11 +6,6 @@ I’m constantly exploring distributed systems and backend architecture design.
 
 Contributor to my own OSS projects and open to collaboration.
 
-<div style="display: flex; width: 100%; justify-content: center; gap: 8px;">
-  <img style="height: 180px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gox7&theme=transparent"/>
-  <img style="height: 180px;" src="https://streak-stats.demolab.com/?user=gox7&theme=transparent&border=transparent&stroke=2e343b&currStreakLabel=77909c&sideLabels=77909c&card_height=180"/>
-</div>
-
 ---
 
 #### Tech I use
